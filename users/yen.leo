@@ -170,7 +170,7 @@
 <v t="leo.20161216133217.1"><vh>@edit 20161202.md</vh></v>
 <v t="leo.20161214215924.1"><vh>@edit 20161209a.md</vh></v>
 <v t="leo.20161214215933.1"><vh>@edit 20161209b.md</vh></v>
-<v t="leo.20161216135359.1" a="E"><vh>@clean 20161217.md</vh>
+<v t="leo.20161216135359.1"><vh>@clean 20161217.md</vh>
 <v t="leo.20161216135359.2"><vh>ch01 print() 與 input()</vh></v>
 <v t="leo.20161216135359.3"><vh>cp a w13</vh></v>
 <v t="leo.20161216135359.4"><vh>Brython editor</vh></v>
@@ -180,6 +180,7 @@
 <v t="leo.20161216135359.8"><vh>ex4 - local_storage</vh></v>
 <v t="leo.20161216135359.9"><vh>ch02 str() 與 int() 與 float()</vh></v>
 </v>
+<v t="leo.20161230145400.1"><vh>@edit 20161230.md</vh></v>
 </v>
 </v>
 </v>
