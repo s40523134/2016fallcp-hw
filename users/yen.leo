@@ -180,6 +180,7 @@
 <v t="leo.20161216135359.8"><vh>ex4 - local_storage</vh></v>
 <v t="leo.20161216135359.9"><vh>ch02 str() 與 int() 與 float()</vh></v>
 </v>
+<v t="leo.20170106153210.1"><vh>@edit 20161223.md</vh></v>
 <v t="leo.20161230145400.1"><vh>@edit 20161230.md</vh></v>
 <v t="leo.20170106134329.1"><vh>@edit 20170106.md</vh></v>
 </v>
