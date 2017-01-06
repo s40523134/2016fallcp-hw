@@ -77,7 +77,7 @@ ctx.stroke()
 ctx.closePath()
 
 circle(200, 200, 5)
-&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>W16 練習</title><link href="./w16-lian-xi.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2016-12-30:./w16-lian-xi.html</id><summary type="html">&lt;p&gt;2017年元旦快樂&lt;/p&gt;
+&lt;/script&gt;</summary><category term="Brython"></category></entry><entry><title>W16 練習</title><link href="./w16-lian-xi.html" rel="alternate"></link><published>2016-12-30T12:00:00+08:00</published><updated>2016-12-30T12:00:00+08:00</updated><author><name>40523134</name></author><id>tag:,2016-12-30:./w16-lian-xi.html</id><summary type="html">&lt;p&gt;2017年元旦快樂&lt;/p&gt;
 
 
 &lt;p&gt;首先了解random亂數模組的用法&lt;/p&gt;
